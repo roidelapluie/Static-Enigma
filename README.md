@@ -1,6 +1,20 @@
-# Static Enigma
-I wanted a version of the [Enigma](https://apps.getpebble.com/en_US/application/55558c2a44dad6b80f000088?query=Enigma&section=watchfaces) watchface without the animations to save battery (plus, I rarely saw the animation anyway.) and [Slides of time](https://apps.getpebble.com/en_US/application/555283c7efff0cc8e50000b0?query=Enigma&section=watchfaces) had too many extra features I didn’t want. So I made this. ¯\\\_(ツ)_/¯
+# roidelapluie watchface
 
-Original design by Alex Kirov and watchface published by Neal Patel.
+Based on [Static-Enigma](https://github.com/exiva/Static-Enigma). Original design by Alex Kirov and watchface published by Neal Patel.
 
-Licensed under the WTFPL... But, in bird culture, publishing this to the app store is considered a dick move. Then again, do whatever you want.
+Licensed under GPLv2.
+
+## Features
+
+* Not configurable
+* Vibes on connection changes
+
+Rows:
+
+* Date
+* Hour with a red background, grey when not connected to the phone
+* Week number + (99 if charge is 100) or (RANDOM<5 + Battery charge/10)
+
+## Screenshot
+
+![Screenshot](screenshot.png)

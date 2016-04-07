@@ -1,15 +1,15 @@
 {
-  "uuid": "f7eb73a9-0314-4cc0-842b-56b7c8559f25",
-  "shortName": "Static Enigma",
-  "longName": "Static Enigma",
-  "companyName": "Travis La Marr",
+  "uuid": "62345277-921e-4320-9122-8f109b54a081",
+  "shortName": "roidelapluie",
+  "longName": "roidelapluie watchface",
+  "companyName": "Travis La Marr, Julien Pivotto",
   "versionLabel": "1.1",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt", "chalk"],
   "watchapp": {
     "watchface": true
   },
-  "capabilities": ["configurable"],
+  "capabilities": [],
   "appKeys": {
     "bg": 0,
     "fg": 1
